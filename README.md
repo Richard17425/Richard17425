@@ -1,10 +1,10 @@
 <img src="https://github.com/preminstrel/preminstrel/blob/main/images/preminstrel.png">
 <p align="center">
-<a href="https://github.com/preminstrel">
+<a href="https://github.com/Richard17425">
 <img src="https://komarev.com/ghpvc/?username=Richard17425&style=flat-square" alt="Richard17425" />
 </a>
  <a href="mailto:richy70425@gmail.com">
- <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
+ <img src="https://img.shields.io/badge/-richy70425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richy70425@gmail.com">
 </a>
  <a>
   <a href="https://www.zhihu.com/people/xu-ke-tian-20" target="_blank">
@@ -14,7 +14,7 @@
   
 <a>  
   <a href="https://www.linkedin.com/in/ruiqi-mao-338077251/" target="_blank">  
-  <img src="https://img.shields.io/badge/知乎-言午-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-Ruiqi Mao-0079FF.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
  </a> 
 </a>
 </p>
