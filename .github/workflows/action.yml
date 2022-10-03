@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: preminstrel
+          user: Richard17425
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
