@@ -1,32 +1,29 @@
 <img src="https://github.com/preminstrel/preminstrel/blob/main/images/preminstrel.png">
 <p align="center">
 <a href="https://github.com/preminstrel">
-<img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
+<img src="https://komarev.com/ghpvc/?username=Richard17425&style=flat-square" alt="Richard17425" />
 </a>
- <a href="mailto:preminstrel@gmail.com">
+ <a href="mailto:richy70425@gmail.com">
  <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
 </a>
  <a>
-  <a href="https://www.zhihu.com/people/preminstrel" target="_blank">
-    <img src="https://img.shields.io/badge/知乎-preminstrel-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu">
+  <a href="https://www.zhihu.com/people/xu-ke-tian-20" target="_blank">
+    <img src="https://img.shields.io/badge/知乎-言午-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu">
   </a>
-  <a href="https://github.com/preminstrel">
- <img src="https://img.shields.io/badge/-SW825143601640-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=FFFFFF">
+  <a href="https://github.com/Richard17425">
+  
+<a>  
+  <a href="https://www.linkedin.com/in/ruiqi-mao-338077251/" target="_blank">  
+  <img src="https://img.shields.io/badge/知乎-言午-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Linkedin">
+ </a> 
 </a>
- <a>
-  <a href="https://steamcommunity.com/id/preminstrel/">
- <img src="https://img.shields.io/badge/@preminstrel-1DA1F2?style=flat-square&logo=Steam&logoColor=black" alt="steam"/>
-  </a>
 </p>
 
-🌱 Currently I'm a 2019 undergraduate majoring in **Electronic Science and Technology** at ***[Southeast University](https://www.seu.edu.cn/), 🇨🇳***. 
+🌱 Currently I'm a 2020 undergraduate majoring in **Mechanical Science and Engineering** at ***[Huazhong University of Science and Technology](https://www.hust.edu.cn/), 🇨🇳***. 
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
 <img alt="C++" src="https://img.shields.io/badge/-C++-525288?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="python" src="https://img.shields.io/badge/-Python-74787a?style=flat-square&logo=python&logoColor=white" />
-<img alt="java" src="https://img.shields.io/badge/-java-2e317c?style=flat-square&logo=java&logoColor=white" />
-<img alt="html" src="https://img.shields.io/badge/-html-d2d97a?style=flat-square&logo=html5&logoColor=white" />
 
 <img alt="git" src="https://img.shields.io/badge/-Git-5c2223?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-GitHub-d13c74?style=flat-square&logo=github&logoColor=white" />
@@ -34,20 +31,11 @@
 
 <img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
 
 </p>
 
 
-<details><summary>More GitHub Info</summary>
- <img src="https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg" alt="Metrics"/>
-</details>
-
-<strong>My Weekly Coding Activity</strong>
-
-<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Preminstrel WakaTime Activity"/>
-
 
 <strong>Useful Links 📫</strong>
-* [Site](https://preminstrel.github.io)
-* [Blog](https://preminstrel.github.io/blog/) 
+* [Site](https://Richard17425.github.io)
+* [Blog](https://Richard17425.github.io/blog/) 
