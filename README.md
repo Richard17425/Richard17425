@@ -42,6 +42,3 @@
 <strong>Useful Links 📫</strong>
 * [Site](https://Richard17425.github.io)
 * [Blog](https://Richard17425.github.io/blog/) 
-
-
-![gosleep](images/gosleep.jpg)
