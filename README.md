@@ -41,4 +41,4 @@
 
 <strong>Useful Links 📫</strong>
 * [Site](https://Richard17425.github.io)
-* [Blog](https://Richard17425.github.io/blog/) 
+* [Blog](https://www.instagram.com/richy0425/)https://www.instagram.com/richy0425/) 
