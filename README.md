@@ -21,7 +21,7 @@
    
 </p>
 
-🌱 Currently I'm a 2020 undergraduate majoring in **Mechanical Science and Engineering** at ***[Huazhong University of Science and Technology](https://www.hust.edu.cn/), 🇨🇳***. 
+🌱 Currently I'm a master student majoring in **Mechanical Science and Engineering** at ***[UCLA](https://www.ucla.edu/),CA***. 
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
