@@ -12,14 +12,14 @@
   <a href="https://github.com/Richard17425">
   
 <a>  
-  <a href="https://www.linkedin.com/in/ruiqi-mao-338077251/" target="_blank">  
+  <a href="http://www.linkedin.com/in/ruiqi-mao-richy/" target="_blank">  
    <img src="https://img.shields.io/badge/LinkedIn-Ruiqi Mao-0079FF.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
  </a> 
 </a>
    
 </p>
 
-🌱 Currently I'm a master student majoring in **Mechanical Science and Engineering** at ***[UCLA](https://www.ucla.edu/),CA***. 
+🌱 Currently I'm a master student majoring in **Mechanical Science and Engineering** at ***[UCLA](https://www.ucla.edu/), CA***. 
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
