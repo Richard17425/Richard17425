@@ -24,15 +24,12 @@
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
 <img alt="C++" src="https://img.shields.io/badge/-C++-525288?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-5c2223?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-GitHub-d13c74?style=flat-square&logo=github&logoColor=white" />
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
 <img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
 <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
-<img alt="Windows Terminal" src="https://img.shields.io/badge/-Terminal-36292f?style=flat-square&logo=Windows Terminal&logoColor=white" />
-<img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-D83B01?style=flat-square&logo=Microsoft Office&logoColor=white" />
 <img alt="Lightroom" src="https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom Classic&logoColor=black" />
 </p>
 
