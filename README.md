@@ -30,10 +30,8 @@
 <img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
 <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
-<img alt="Lightroom" src="https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom Classic&logoColor=black" />
 </p>
 
 
 <strong>Useful Links 📫</strong>
 * [Site](https://Richard17425.github.io)
-* [Blog](https://www.instagram.com/richy0425/)
